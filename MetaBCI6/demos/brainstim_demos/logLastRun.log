@@ -1,0 +1,13 @@
+2.2844 	WARNING 	Font Manager failed to load file C:\Users\ZC\AppData\Local\Microsoft\Windows\Fonts\仿宋_GB2312(1).TTF
+2.4459 	WARNING 	Font Manager failed to load file C:\Users\ZC\AppData\Local\Microsoft\Windows\Fonts\仿宋_GB2312(1).TTF
+2.4982 	WARNING 	psychopy.parallel has been imported but no parallel port driver found. Install either inpout32, inpoutx64 or dlportio
+0.0002 	WARNING 	============start experiment at 2026-07-04 10:24:46.279408============
+0.3453 	WARNING 	Current screen refresh rate 60Hz and frame period 16.67ms
+7.6792 	DATA 	Keypress: return
+7.6793 	WARNING 	Start paradigm basic SSVEP
+17.9980 	DATA 	Keypress: q
+18.7150 	DATA 	Keypress: q
+18.9140 	DATA 	Keypress: q
+18.9823 	WARNING 	Finish paradigm basic SSVEP
+19.7002 	DATA 	Keypress: q
+19.7890 	WARNING 	============end Experiemnt at 2026-07-04 10:25:06.067966============
